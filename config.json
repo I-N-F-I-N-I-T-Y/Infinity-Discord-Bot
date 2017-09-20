@@ -1,1 +1,5 @@
-
+{
+  "token": "bot-token",
+  "prefix": "/",
+  "ownerID": "userID"
+}
